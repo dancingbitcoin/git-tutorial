@@ -1,1 +1,4 @@
-#Gitチュートリアル	- feature-B
+#Gitチュートリアル
+
+	- feature-B
+	- feature-A
